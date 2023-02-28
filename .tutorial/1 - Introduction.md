@@ -1,14 +1,15 @@
-# Building a Sketch App
+# Building a Drawing Pen
 
-In this course we will be designing a Sketch App which will allow us to draw colored lines on the screen with our mouse. This course is designed to demonstrate the foundations of programming with Java.
-
-*The concepts learned here will be immediately applicable to any programming application you may find yourself working on in the future.*
+It's finally time! In this lesson, we will begin development of a pen tool which will allow us to draw lines with our mouse over the canvas. In doing so, we will learn to store data within **variables**, and will begin to understand Java as a "statically typed language".
 
 ## Key Concepts
-- Libraries
-- Calling methods
-- Passing values
+
+- Variable Access, Update, and Storage
+- Data Types
+- Code Comments
 
 ## Lesson Objective
 
-In this lesson we will learn to call **methods**, which are actions our program is able to perform, in order to draw shapes and color on our screen.
+Variables are a foundation of building programs. You will use them to store, manipulate, and transfer data. You will learn that Java is a typed language: all entities in Java are of a defined **type** and are stored and referenced in **variables**.
+
+In this lesson, we will learn to define and access variables of a specific type.
