@@ -12,7 +12,6 @@ public class ClearButton extends SquareButton {
 
     @Override
     public void drawSelf() {
-        super.drawSelf();
         
     }
 
